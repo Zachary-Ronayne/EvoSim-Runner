@@ -1,0 +1,39 @@
+WindowWidth: 1800
+WindowHeight: 1000
+Font: Arial
+
+MaxZoomSim: 10
+MinZoomSim: -10
+MaxTickSpeed: 12
+MintickSpeed: -5
+NumRunners: 100
+TrackTileSize: 100
+FitnessLinesGive: 1
+
+RunnerSpeedChange: 0.01
+RunnerAngleChange: 1.0
+RunnerMinSpeed: -2.0
+RunnerMaxSpeed: 4.0
+RunnerRadius: 15.0
+KillRunner: 1
+RunnerTestTime: 4000
+RunnerViewDistance: 2000.0
+FitnessPerLine: 1.0
+FitnessPerTick: 0.01
+SpeedMultFitness: 1
+WallMultFitness: 1
+RunnerVisionWeights: 10 1 1 1 10 1 1 1 
+RunnerVisionAngles: 0.0 45.0 90.0 135.0 180.0 225.0 270.0 315.0 
+RunnerNumHiddenNodes: 1 6 
+
+MaxMutability: 4.0
+MinMutability: -4.0
+MutabilityChange: 1.0
+NodeLocX: 10
+NodeLocY: 80
+NodeDispRadius: 20
+NodeDispHeight: 800
+NodeDispSpcaeX: 100
+
+GraphMaxZoom: 60
+GraphMinZoom: -10
